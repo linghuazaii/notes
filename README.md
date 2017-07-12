@@ -1,3 +1,3 @@
 # Notes
-**Not Finished**, ~~Finished~~.
- - ~~SVD~~
+__Not Finished__, ~~Finished~~.
+ - __SVD__
