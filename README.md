@@ -1,2 +1,3 @@
-# notes
-notes for learning
+# Notes
+**Not Finished**, ~~Finished~~.
+ - ~~SVD~~
